@@ -1,0 +1,691 @@
+Content
+"JDCS
+디지털콘텐츠학회논문지
+Journal of Digital Contents Society
+Vol. 24, No. 5, pp. 903-914, May. 2023
+MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털 콘텐츠와 인터페이스 디자
+인 제안
+박 주 원1·이 재 준1·조 희 경2*
+1건국대학교 디자인대학 미디어콘텐츠학과 학부과정
+2*건국대학교 디자인대학 미디어콘텐츠학과 조교수, 뉴미디어아트 연구소
+Development of Upcycling Customized Digital Content and
+Interface Design Reflecting the Consumption Trends of the MZ
+Generation
+Ju-Won Park1 · Jea-Jun Lee1 · Hee-Kyung Cho2*
+1Undergraduate Program, Department of Media Contents, Konkuk University, Chungju 27478, Korea
+2*Professor, Department of Media Contents, Konkuk University, Chungju 27478, Korea
+[요 약]
+코로나19 팬데믹 동안 집 안에 머무르는 시간이 늘어나면서 플라스틱의 사용량이 증가했고, 처리해야하는 폐플라스틱의 양 또
+한 증가했다. 본 연구에서는 MZ 세대의 소비 트렌드를 반영한 콘텐츠를 개발하기 위해 MZ 세대를 중심으로 폐플라스틱을 수거하
+여 친환경 폴리에스터 소재를 제작하고, 이를 활용한 새활용 서비스를 시행한 후 커스터마이즈 할 수 있는 친환경 소비자 콘텐츠
+와 인터페이스 디자인을 제안한다. 연구방법은 배경 연구를 바탕으로 새활용을 통한 커스터마이즈 서비스의 이점 및 MZ 세대의
+소비행태를 분석하고, 사례분석을 통해 기존 서비스의 한계점과 차별점을 파악했다. 이후 퍼소나 설정을 통해 니즈와 서비스의 기
+능들을 도출하고, 앞선 내용을 바탕으로 새활용을 통한 커스터마이즈 서비스 콘텐츠 디자인과 인터페이스를 설계하고 프로토타
+입을 제작한 후, MZ 세대를 대상으로 사용성 평가를 진행하여 서비스의 사용성을 검증하였다.
+[Abstract]
+As an increasing amount of time was spent indoors during the COVID-19 pandemic, the use of plastic products and thus plastic
+waste also increased. In this study, an interface design for eco-friendly consumer content was proposed, which can be customized
+after the plastic wastes have been collected by the MZ generation to produce eco-friendly polyester materials. Moreover, the MZ
+generation can implement new services while using the interface design. Based on background research, the benefits of customized
+services through new applications and consumption behavior of the MZ generation were analyzed, and the limitations and
+differences of existing services were identified through case analysis. Following this, the needs and service functions were derived
+through personal setting, and customized service content and interface were designed and prototyped based on previously collected
+content. In addition, usability evaluation of the service was conducted for the MZ generation.
+색인어 : 새활용, 커스터마이즈서비스, 인터페이스디자인, 디지털콘텐츠
+Keyword : Upcycling, Service Customization, Interface Design, Digital Content
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 Received 23 February 2023; Revised 07 April 2023
+This is an Open Access article distributed under Accepted 14 April 2023
+the terms of the Creative Commons Attribution
+Non-CommercialLicense(http://creativecommons *Corresponding Author; Hee-Kyung Cho
+.org/licenses/by-nc/3.0/) which permits unrestricted non-commercial
+use, distribution, and reproduction in any medium, provided the Tel: +82-43-840-3679
+original work is properly cited.
+E-mail: hkjennycho@gmail.com
+Copyright ⓒ 2023 The Digital Contents Society 903 http://www.dcs.or.kr pISSN: 1598-2009 eISSN: 2287-738X"
+"디지털콘텐츠학회논문지(J. DCS) Vol. 24, No. 5, pp. 903-914, May. 2023
+Ⅰ. 서 론 쓰레기 수거 및 새활용 서비스와 이를 바탕으로 연계되는 어
+플리케이션을 활용한 커스터마이즈 서비스에 대한 니즈와 페
+1-1 연구 배경 및 목적 인 포인트를 파악한 후, 이를 기반으로 퍼소나를 설정한다. 셋
+째, 기존의 새활용 및 커스터마이즈를 활용한 브랜드 및 앱
+코로나19 팬데믹을 기점으로 강력한 거리두기가 시행 되 들의 사례조사를 통해 새활용 및 커스터마이즈 서비스의 실
+었고 야외활동이 불편해지자 사람들은 자연스럽게 야외보다 용성을 살펴보고, 서비스에 맞는 어플리케이션 구조와 인터페
+는 실내에서의 활동을 이어나갔다. 이는 자연스럽게 배달음식 이스 디자인을 구성한 후 프로토타입을 제작한다. 넷째, 프로
+소비의 증가로 이어졌으며, 플라스틱 용기 사용량이 급증함과 토타입을 통해 내/외부 사용성 점검을 한 후, 본 연구 결과인
+동시에 환경문제 역시 대두되기 시작했다. 이에 사람들은 환 MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털
+경에 대한 관심도 증가하였으나, 막상 환경보호를 실천하기에 콘텐츠와 인터페이스 디자인에 대하여 검증을 실시한다. 실제
+는 현실적인 조건이나 환경이 갖추어지지 않은 경우가 상당 새활용을 진행하고 있는 브랜드들 중 새활용의 활용가능범위
+수였다. 여전히 일회성으로 사용되고 버려지는 플라스틱 쓰레 나 이에 대한 특징 및 한계점을 통해 서비스에 대한 실용성을
+기들은 무수히 많고, 처리방법은 더 복잡하고 세분화 되어 실 탐구한다.
+천하기는 생각보다 쉽지 않다. 특히 질문 중에서도 업사이클
+링(Upcycling) 이라는 단어를 알고있다는 대답은 과반수 이
+상을 넘겼지만, “접해본 적이 있는가” 대답에는 그렇지 않다 Ⅱ. 이론적 배경
+는 대답이 대부분이었다. 이는 곧 MZ 세대들이 업 사이클링
+을 쉽게 활용할 수 있는 환경이나 서비스가 시행된다면 유입 2-1 새활용과 친환경 폴리에스터
+인구가 적지 않다는 말로 해석될 수 있다. 또한 최근 동향을
+살펴보면 흔하게 가지고 있는 아이템, 소위 말하는 ‘유행하는 코로나19 팬데믹의 창궐로 인한 거리두기로 발생한 플라스
+것’을 선호하는 인구보다는 ‘나만의 것’, ‘나만 가지고 있는 아 틱 사용량 증가는 전 세계적인 사회문제로 대두되면서 환경
+이템’ 등을 선호하는 인구들이 증가하고 있다. 또한, 이제는 문제에 대해 여러 가지 방안이 모색되고 있다. 이와 같은 방안
+한 단체나 집단, 무리 등이 아닌 개개인의 취향에 맞추어져야 중 폐기물을 재활용 하는 방식으로 등장한 새활용이 있다.
+하는 시대의 흐름이다. 즉 개인화가 아닌 “초 개인화”가 필요 업사이클링의 정의는 버려지는 제품을 재활용하여 새로운
+한 시기라는 말로 해석 할 수 있다. 한 연구에서는 “새로운 경 방식의 제품을 창출하는 것을 말한다. 생활 속에서 버려지거
+험에 소비를 아끼지 않는 MZ 세대는 콜라보레이션에 주목한 나 쓸모없어진 것을 수선해 재사용하는 재활용(Recycling)의
+다. 특별한 제품을 소장하고, 경험한다는 만족감을 얻는다는 상위 개념으로, 기존에 버려지던 제품을 단순히 재활용하는
+점에서 그들의 마음을 사로잡았다[1].”라고 한다. 그래서 이 차원에서 더 나아가 새로운 가치를 더해(Upgrade) 전혀 다
+러한 선호도나 흐름을 따라가기에는 커스터마이즈 서비스를 른 제품으로 다시 생산하는 것(Recycling)을 말한다[2]. 따
+시행하여 개개인이 원하고 호감을 느낄 수 있는 상품을 제공 라서 본 연구에서는 업사이클링을 우리말인 ‘새활용’으로 지
+하는 서비스가 적절할 것으로 판단된다. 칭하고자 한다.
+새활용과 커스터마이즈 각각의 키워드에 대한 선행연구는 이러한 배경을 바탕으로 생겨난 새활용은 기존의 폐기물
+존재하나, 이 두개의 키워드를 함께 서비스하는 콘텐츠에 대 처리방식보다 환경적인 측면에서 유리하다. 실제 이러한 환경
+한 선행연구는 미흡하다. 이에 사람들이 쉽게 이용할 수 있는 적인 유리함을 바탕으로 국내에선 “사람과 지구를 위해 지속
+새활용 서비스와 이에 유입된 사람들이 커스터마이즈 과정까 가능한 사회적 가치를 창출한다”를 슬로건으로 한 환경교육
+지 자연스럽게 이용할 수 있는 서비스의 가능성과 사용성을 사업을 추진하고 있는 ESG(Environmental, Social and
+검토해볼 필요가 있다. Governance)경영방식이 이어지고 있고[3], “ESG, ESG경
+영” 키워드로 조사한 결과, 10년 동안 ESG를 바탕으로 한 다
+1-2 연구 방법과 범위 양한 연구가 8배 이상 증가 추세를 보이고 있어 국내·외 공통
+으로 ESG 의 이슈가 매우 중요한 연구의 주제가 되고 있음을
+본 연구는 환경에 관심이 많은 MZ 세대를 중심대상으로 알 수 있다[4].
+진행했다. 연구방법으로는 첫째로, 폐플라스틱을 주원료로 재 버려지는 플라스틱 쓰레기를 새활용하고 이를 커스터마이
+생산 해낸 친환경 폴리에스터를 활용한 새활용 생산 및 활용 즈 하는 콘텐츠를 디자인하고자 한다. 새활용을 위해 버려진
+방안, 그리고 더 나아가 새활용 제품에 커스터마이즈 서비스 폐플라스틱을 주 원료로 재생산해낸 친환경 폴리에스터는 원
+를 더하는 서비스 시행에 필요한 요소들에 대한 이론적 고찰 사제조 공정 폐기물을 수집하여 분류, 세척 과정을 거친 뒤
+을 해 본다. 둘째, MZ 세대에 대한 이해도와 적합성, 콘텐츠 칩으로 제작하여 방사하는 과정을 거쳐 생산한다[5]. 이러한
+도출을 목적으로 MZ 세대 모집단에 설문을 실시, 플라스틱 공정을 통해 얻을 수 있는 환경적인 기대효과는 쓰레기 매립
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 904"
+"MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털 콘텐츠와 인터페이스 디자인 제안
+비용 저감 및 온실가스 감축효과, 유한자원 확보가 가능하며
+사회적인 측면에서는 녹색 성장 가능, 글로벌 마케팅에 대한
+경쟁력 확보 등의 효과를 기대할 수 있다[6]. 또한 이렇게 탄
+생되는 친환경 폴리에스터 원사는 의류와 같은 다양한 방식
+으로 활용이 가능해진다. 이처럼 MZ 세대의 환경에 대한 가
+치소비에 따른 관련 제품 판매량 또한 2019년 1월 기준
+2022년 1월 171.4%의 제품 판매 추이를 보이고 있다[7].
+이러한 근거들을 통해 이미 친환경 폴리에스터 제작기술은
+그 가치와 환경 보전적 측면에서 그 효용성이 입증되었음을
+알 수 있다.
+2-2 MZ 세대의 소비 특성
+MZ 세대는 표 1과 같이 밀레니얼 세대와 Z 세대를 아울러
+지칭하는 단어이다. 연령대로 보면 주로 20대와 30대로 구성
+되어 있으며, 현재 우리나라 인구의 약 36% 정도를 차지하고
+있어, 인구수로 보았을 때 향후 사회에서 영향력이 증가 할
+것으로 예상한다[8].
+환경과 새활용 관련 인식 수준에서는 유의미한 조사 결과
+를 얻을 수 있었는데(그림 1), 전국 성인 남녀 1,000명을 대
+상으로 ‘환경 이슈 및 새활용 제품 관련 인식’에 대한 설문조
+사를 실시한 결과, 이전 대비 환경보호에 대한 관심도가 높아 그림 1. 분석결과 요약
+Fig. 1. Summary of analysis results
+지고 있는 것으로 나타났다. 환경문제가 심각한 이슈가 되고
+있다는 것을 체감하고 있다(83.1%)거나 작은 노력이 환경 개
+특히 MZ 세대는 환경 관련 영역에서도 다른 세대 대비 사
+선에 도움이 될 것이라 생각한다(82.1%)는 반응도 높게 나타
+회적 바람직성에 대한 관심과 민감성으로 인해 자연을 의미
+났으며, 이에 따라 친환경 제품에 대한 높은 관심(20대
+하는 그린(Green)과 소비자를 의미하는 컨슈머(consumer)
+69.6%· 30대 62.8%, 40대 67.6%)도 확인할 수 있었다. 이
+의 합성어인 친환경 ‘그린슈머(Greensumer)’를 자처하는 환
+와같이 국민의 환경과 새활용에 관한 인식이 점진적으로 증
+경에 대한 인식이 높은 세대로 나타난다[10]. 그러나 인식과
+가하고 있음을 알 수 있었다[9].
+는 달리 MZ 세대의 친환경 행동 참여율은 상대적으로 저조한
+편으로 보고되고 있다[11]. 특히 플라스틱 사용과 관련한 한
+표 1. 대한민국 세대 구분 한국경제신문
+조사 결과, MZ세대는 다른 세대 대비 플라스틱 사용 감소에
+Table 1. Generation classification in Korea
+있어 개인의 노력에 대한 중요성을 낮게 평가할 뿐 아니라,
+Generation Year of birth A historical event
+다른 세대 대비 일회용품 사용량 및 플라스틱 배출량이 높은
+Industrialization Korean War,
+1940~1954
+generation Vietnam War 것으로 나타났다[12]. MZ 세대의 대표적인 소비문화로 ‘미
+5.16 Military Coup, 닝아웃 소비’를 들 수 있는데 ‘미닝아웃(Meaning Out)’이란
+Baby boomer
+1955~1963 Saemaeul
+generation ‘의미’(Meaning)’과 ‘정체를 드러내다(Coming out)’의 합성
+Movement
+어로 “가치가 있는 소비를 한 후에 이를 드러낸다”는 의미로
+6.10 Uprising,
+386 generation 1960~1969
+pro-democracy 이전 세대의 소비자들이 소비를 할 때 가격과 품질 등에 초점
+SeongsuBridge, 을 맞추었다면 M Z세대는 의미·가치·신념을 드러내는 소비에
+Sampung
+X generation 1970~1980 중점을 둔다.
+Department Store
+Collapse MZ 세대는 자신의 가치관이나 신념에 부합한다면 구매나
+캠페인 등에 적극적으로 참여하고, SNS에 해시태그를 통해
+World Cup, foreign
+Millennium 1981~1996 exchange crisis, 인증을 하여 선한 영향력을 전파한다. 예를 들어, 친환경을 위
+generation
+financial crisis
+해 제로웨이스트(Zero waste)와 리사이클(Recycle) 제품을
+Financial Crisis, 구매하여 사용한 후 인증하여 팔로워들의 동참을 이끌어내기
+Z generation 1997~ Information 도 한다. 이는 MZ 세대의 가치 소비를 보여주는 특징이라 볼
+Technology Boom
+수 있다.
+https://sgsg.hankyung.com/article/2018101267181
+905 http://www.dcs.or.kr"
+"디지털콘텐츠학회논문지(J. DCS) Vol. 24, No. 5, pp. 903-914, May. 2023
+이처럼 본 연구에서의 타겟층인 MZ 세대는 환경에 대한 바이스, 콘텐츠와 특징을 분류하여 비교분석 한다. 또한 이러
+인식과 새활용에 대한 인식이 점차 상승중이며 또한 연령층 한 서비스를 어떠한 방식으로 제공하는지 제이콥 닐슨(Jakob
+특성상 미닝아웃을 추구한다는 점을 고려하였을 때, 커스터마 Nelson)의 발견적 평가방법(Heuristic Evaluation)을 통해
+이즈 서비스에 이점이 있을 것으로 보여진다. 인지 가능성(Recognizability), 유연성(Flexibility), 미적최소
+주의(Aesthetic and Minimalist Design), 가시성(Visibility
+2-3 커스터마이즈 서비스 of System Status), 일관성(Consistency and Standards)을
+고려한 인터페이스 특징, 커스터마이즈 서비스 브랜드들 세
+커스터마이즈(Customizing) 서비스란 소비자의 취향과 요 가지의 분류를 바탕으로 비교 분석한다(표 2).
+구에 따라 기업이 제품을 맞춤 제작해주는 서비스를 말하는
+표 2. 새활용 커스터마이즈 브랜드 조사 및 관련 서비스
+것으로 ‘주문 제작하다’라는 뜻인 ‘Customize’에 어원을 두
+인터페이스 분석
+고 있으며, 표준 제품 및 기타 서비스를 소비자의 요구에 맞
+Table 2. Upcycling customization brand survey and related
+춰 재구성하여 원하는 형태로 판매하는 것과 자사의 제품에 service interface analysis
+타사의 제품을 가져와 커스터마이즈 하는 것도 포함하고 있
+다[13]. Brand FREITAG CUS BT YO YM ZIZED CASETIFY
+커스터마이즈 서비스는 다양성과 차별화를 바탕으로 하여 (프라이탁) (커스텀와이즈) (케이스티파이)
+각각의 취향을 가진 소비자들의 욕구를 실현시켜줄 수 있다 Production of
+new products Production of
+는 장점이 있다. 또한 소비자의 취향을 반영한다는 점에 있어
+through waste self-customized Recycled landfill
+2,3차적으로 파생되는 디자인적인 측면 또한 발전가능성을 Manufacturing materials such products that plastic,
+method as waterproof recycle waste self-customized
+기대하고 있다[14]. cloth, seat clothing and case production
+“매스 커스터마이제이션”의 저자 파인 앤 길모어(Pine, II, belts, and fabric
+rubber tubes
+B. Joseph, Gilmore, James H.)는 자신의 이론에서 ‘경험’의
+Web,
+중요성을 강조하였다[15]. 소비자에게 있어 ‘경험’이란 단순 Mobile Web, Web,
+Web,
+Device application Mobile Web,
+하게 기능적인 면을 추구하는 것뿐만 아니라 체험하며 느낄 Mobile Web
+(Enter many application
+수 있는 큰 소비 동기가 될 수 있다. 이에 점차 소비자들이 커 platforms)
+Bags, Watchstraps,
+스터마이즈 시장을 찾게되고 그 비중은 실제로 지속적으로 Smart device,
+Contents accessories, bags,
+accessory case
+증가하고 있다는 점을 알 수 있다. clothes. accessories.
+Various
+현재 국내 커스터마이즈 서비스 시장규모는 빠르게 성장하 Various case
+campaigns Offers
+products,
+고 있다. 이러한 커스터마이즈 서비스는 다양한 분야에 다양 (exchange, self-customizati
+Features collaboration
+repair), custom on services, low
+한 서비스로 전개되어 있는 상황이지만, MZ 세대 환경관심도 with other brand
+bags, different accessibility
+designers
+에 비해 새활용 제품을 주력으로 하여 판매하는 커스터마이 designs
+즈 서비스는 크게 두각을 드러내고 있지 못한 상황이다. 이러 Main Main Main
+color: black color: black color: black
+한 문제점을 해소하기 위해 대중인식을 증대시킬 수 있는 방 Color Auxiliary Auxiliary Auxiliary
+color: White color: White color: blue
+안이 필요하다. 이러한 특징들을 바탕으로 본 연구를 통해 새
+- Depth are
+활용과 커스터마이즈를 합쳐서 새로운 방향성을 제시한다. - Easy to simple - Depth connect
+intuitively
+- Inconvenient intuitively
+purchase after
+depth - Intuitive icons
+approach
+configuration and text
+- Complex main
+- aesthetically - Layout is
+Ⅲ. 사례분석 page layout,
+neat but somewhat
+- Trendy
+simple difficult to
+UI Features design, but
+- Disappointing distinguish
+폐플라스틱을 주 원료로 재생산 해낸 친환경 폴리에스터를 less explicit
+information - Brief
+- Proper fusion
+활용한 새활용 생산 및 활용방안, 새활용 제품에 커스터마이 provision description of
+of icons and
+- Consistent progress
+즈를 더하는 서비스 시행에 필요한 요소들을 사례 분석 대상 images within
+with -Separated
+customization
+으로 선정하였다. non-redundant between
+- Clear depth
+messages and depth
+configuration
+icons
+3-1 관련사례 분석 Provide
+Providing
+customization User
+customization
+service through customization
+Customize services within
+현재 국내/외에서 새활용 제품을 커스터마이즈하여 판매하 'F-cut' inside service absent
+system its own
+web page, due to self
+는 브랜드들의 제조방식과 이를 바탕으로 한 서비스 제공 디 application,
+limited customization
+convenient
+customization
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 906"
+"MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털 콘텐츠와 인터페이스 디자인 제안
+표 2와 같이 국내/외에서 판매중인 새활용 커스터마이즈 브 의 과정의 뎁스가 직관적인 텍스트와 아이콘으로 구성되어
+랜드들을 살펴보았다, 첫 번째 프라이탁(FREITAG)은 폐 현 매우 용이했다. 그리고 직관적인 아이콘으로 커스텀 과정이
+수막을 재활용한 방수천, 자동차 안전벨트, 폐자전거의 고무 상당히 친절하게 구성되어 있었다. 하지만 디자인적으로 이미
+튜브 등 폐자재를 활용하여 새활용 제품을 생산한다. 웹이나 지의 사이즈가 커서 구분하기에 어려움이 있었다. 커스터마이
+모바일 웹 등을 진행하며 주력 상품은 폐자재를 활용한 가방 즈 진행 과정 중 가시적으로 현재 진행상태를 잘 나타내어 용
+과 악세사리, 의류 등이 있다. 폐 원자재를 재활용하다 보니 이하였고, 뎁스간의 구분이 잘 되어 있어 복잡하지 않게 순차
+모든 제품의 디자인이 다르다. 또한 다양한 캠페인을 진행하 적으로 제작이 가능했다. 커스터마이즈 서비스 특징으로는 자
+기도 하는데 새활용 취지에 맞는 가방의 교환, 수리 등 단순히 체 어플리케이션 내에서 커스터마이즈 서비스를 제공하여 접
+판매에만 목적을 두지 않는 캠페인을 진행한다. 또한 ‘F-cut’ 근에 용이했고 상당히 편리하다.
+이라는 서비스를 통해 커스터마이즈 서비스를 제공한다. 사례 분석을 바탕으로 내용을 종합하였을 때, 어플리케이
+두 번째 커스텀와이즈(CUSTOMIZED BY YZ)는 타 브랜 션을 통한 간편한 커스터마이즈 서비스를 제공하는 업체가
+드의 폐 의류와 원단을 재활용한 제품을 판매한다, 또한 자체 많지 않았고 유저들에게 필요한 서비스는 모바일 어플리케이
+커스터마이즈를 통해 제품을 판매한다. 워치스트랩이나 가방, 션 제공, 다양한 방식의 커스터마이즈, 직관적인 커스터마이
+그 외 악세사리 등을 판매하며, 특징으로는 재활용 이전 제품 즈 제작이었으나 그러한 점에서 콘텐츠의 부재와 부실이 한
+의 디자인을 잘 살려 재생산 한다는 점이다. 계점으로 나타났다. 또한 전체적으로 단조로운 블랙컬러를 메
+다음으로 세 번째 케이스티파이(CASETIFY)는 매립지 플 인컬러로 사용하여 유니크함을 살리지 못한 단조로운 디자인
+라스틱을 재활용한 커스터마이즈 케이스 제품을 생산한다. 케 을 사용한다는 점을 발견할 수 있었다.
+이스티파이는 새활용 상품을 주력으로 판매하는 브랜드는 아 분석 결과, 쉽고 간편하게 이용할 수 있는 방식의 디바이스
+니지만, 최근 새활용 제품의 판매 성장세를 고려하여 함께 사 서비스 제안 및 커스터마이즈의 자유도와 친절하면서도 직관
+례분석 하였다. 케이스티파이는 웹이나 모바일 웹, 자체 모바 적인 인터페이스 등의 개발이 필요하다는 사실을 도출 할 수
+일 어플리케이션을 서비스하고 있으며 특징으로는 다양한 디 있었다. 이에 더해 블랙과 화이트에서 벗어난 조금 더 독창적
+자인의 케이스를 제공하며 타 브랜드, 디자이너와의 콜라보를 인 색감을 디자인적으로 이용해야 한다는 점을 알 수 있었다.
+통한 커스텀케이스 제공, 커스터마이즈 서비스 제공, 케이스 본 연구에서는 어플리케이션의 부재, 접근하기 어려운 방
+를 수거하여 새활용 하는 캠페인 등이 있다. 식의 웹 구조 등 접근성이 낮아 이용하기 어려운 새활용 커스
+또한 세 가지 브랜드가 서비스 하고 있는 UI(User 터마이즈 서비스를 모바일 어플리케이션 서비스로 조금 더
+Interface)적 측면을 살펴보았다. 첫째로, 프라이탁은 메인컬 쉽고 용이하게 이용하며, 기존의 한계점을 개선한 서비스 콘
+러 블랙과 서브컬러 화이트를 통한 웹 구성으로 제작되었으 텐츠로 유니크하고 독창적인 디자인으로 확장함과 동시에 이
+며 접근부터 구매까지의 과정이 직관적인 아이콘으로 구성되 용자의 편의와 개성을 존중할 수 있는 인터페이스를 제안하
+어 용이하다, 전체적으로 다소 명시성이 떨어진다는 점이 있 고자 한다.
+었다. 커스터마이즈 부분에서 가시적인 부분을 통해 직관적으
+로 이용할 수 있도록 아이콘(Icon)과 이미지(Image)를 적절
+히 융합하였고, 페이지의 뎁스 구분이 명확하여 원하는 포인 Ⅳ. 설문설계와 분석 및 퍼소나 설정
+트까지 이동하고 메인페이지로 돌아오기 쉬웠다. 커스터마이
+즈 서비스를 이용하기 위해서는 웹페이지(모바일 포함) 4-1 설문조사 계획
+‘F-cut’을 통해서만 가능하여 다소 불편함이 있었고, 정해진
+디자인 내에서만 구성이 가능하다는 점에서 한계점이 있었다. 본 설문은 MZ 세대의 새활용 커스터마이즈 선호도 파악과
+두 번째 커스텀와이즈의 경우 메인컬러 블랙과 서브컬러 현재 새활용 커스터마이즈 서비스의 인지도 및 페인포인트를
+화이트를 통한 웹 구성으로 제작되었으며, 뎁스가 단순하면서 파악하기 위해 시행하였다.
+이미지 위주로 구성되어 구매까지의 과정이 매우 단순하였다, 설문 모집단은 표 3과 같이 밀레니엄 세대와 Z세대에 해당
+또한 단순한 이미지를 게시하여 그 외의 정보를 보려면 한 단 하는 MZ 세대 65명을 대상으로 설문을 진행하였다. 설문 질
+계의 뎁스를 더 진행하여야 하여 제품을 한눈에 볼 수 있다는 문 구성은 세 가지로 나눴고, 새활용 인지도와 관련된 질문
+장점이 있었지만, 자세한 정보를 확인하기 위해선 다소 불편 3~9번 항목, 커스터마이즈 인지도는 10~11-3번 항목 이 중
+함이 있었다. 또한 구매 과정 중 디테일한 설명이 부족하여 11-2는 중복으로 답변 할 수 있도록 설정하였고 11-2는 주
+결제 과정이 불친절하다는 인식을 받았다. 브랜드의 자체적인 관식으로 기입할 수 있도록 설정하였다, 또한 12~12-1번 항
+커스터마이즈를 통한 제품 판매로 유저가 직접 커스터마이즈 목은 새활용 커스터마이즈 서비스 시행 관련 니즈 파악으로
+를 할 수 없다. 나누어 질문을 설계하였다. 서비스의 목적 설정과 새로운 콘
+세 번째 케이스티파이(CASETIFY)는 메인컬러 블랙 서브 텐츠 및 기능에 대하여 심층적인 분석을 하기 위해 표 4에 정
+컬러 블루로 웹페이지가 제작되었고, 스플래시부터 구매까지
+907 http://www.dcs.or.kr"
+"디지털콘텐츠학회논문지(J. DCS) Vol. 24, No. 5, pp. 903-914, May. 2023
+리된 설문 문항별로 객관식 또는 주관식으로 답하도록 하였다. 4-2 설문조사 결과
+표 3. 표본의 인구통계학적 정보
+표 4의 설문조사 결과, 그림 2를 통해 서비스콘텐츠 구현
+Table 3. Demographic information of the sample
+을 위해 필요한 대표적 질문 4개를 요약 정리하였다. 9번 항
+The number of people Percentage (%)
+목 새활용 서비스가 시행된다면 이용할 의향이 있습니까? 에
+Female 31 47.7 % 는 그렇다 41명(63.1%), 이를 통해 소비자가 새활용 관련 서
+Gender Male 34 52.3 % 비스 SNS를 통해 유입되는 경우가 많았고, 새활용 서비스 시
+Total 65 100 % 행시 절반 이상이 이용하겠다고 대답하였음을 알 수 있었다.
+Under 19 0 0%
+20~23 3 4.6 %
+24~30 45 69.2 %
+Age 30~36 16 24.6 %
+37~40 3 4.6%
+over 40 0 0%
+Total 65 100 %
+표 4. 새활용 커스터마이즈 서비스 콘텐츠 활용 및 니즈를
+파악하기 위한 설문조사의 설문 문항 구성
+Table 4. Upcycling customization service content and
+organize survey questions to identify needs
+Survey questions
+1 Please select your gender
+2 Please select your age group
+그림 2. 설문조사 결과 요약
+What kind of trash do you think is usually emitted from
+3 Fig. 2. Summary of survey results
+your home?
+4 Are you usually interested in environmental issues?
+이어서 11-3번 항목에서 커스터마이즈 서비스를 이용해 본
+4-1 When did you start to be interested? 적 있다면, 커스터마이즈 서비스를 사용하면서 어떤 점이 불편
+5 Do you know the word upcycling? 했나요? 라는 질문에 “한정적인 커스터마이즈가 불편했다”,
+6 Have you ever practiced upcycling? “좀 더 높은 자유성이 없다는 점이 불편했다”. 등의 주관적인
+Have you ever purchased a commercially available 답변이 있었다. 이처럼 커스터마이즈 서비스를 이용해 본 적이
+7
+upcycling product?
+없는이가 다수였다. 이와 동시에 설문자가 커스터마이즈 서비
+7-1 How did you purchase the upcycling product?
+스를 이용하면서 느낀 페인포인트 또한 알아볼 수 있었다.
+If you are using an upcycling product, what product are
+7-2 표 5의 12번 항목 환경을 지키는 새활용 제품을 커스터마
+you using?
+이즈 할 수 있는 서비스가 제공된다면, 귀하는 서비스를 사용
+8 Why don't you use the product?
+하실 의향이 있으신가요? 에는 ‘그렇다’ 53명(81.5%), 으로
+If when launched available upcycling service, do you
+9 have intend to using upcycling service? 조사되었고 12-1번 항목 서비스를 이용하신다면, 어떠한 디
+바이스를 통해 커스터마이즈 하는게 편하십니까? 에는 어플
+10 Do you know about the product in customization?
+리케이션 30명(46.2%)으로 조사되었다. 이를통해 설문자 다
+Have you ever used a customization service? (Starbucks,
+11
+Marple, Caseify, Shoes Custom, etc.) 수가 새활용 커스터마이즈 서비스를 이용하겠다는 긍정적인
+If you've ever used a customization service, 분석결과를 얻을 수 있었고, 어플리케이션을 주력 서비스로
+11-1
+How did you access the customization service?
+설계해야 함을 알 수 있었다.
+11-2 When using the customization service, 설문 결과를 바탕으로 전체 설문을 분석 했을 때 , 가구 내
+How did you use it? (Multiple settings)
+플라스틱 배출량이 가장 높았고, 새활용과 커스터마이즈에 관
+What is your uncomfortable point if you have used a
+11-3 Customizing Service? 심도가 높은 것을 알 수 있었다. 또한, 이를 바탕으로 새활용
+커스터마이즈 서비스를 53명(81.5%)의 설문자가 사용하겠
+If when launched available upcycling product
+12 customizing service, do you have intend to using this 다고 답변하였다. 또한, 한정적인 커스터마이즈, 더 높은 자유
+service?
+성이 없다, 어플리케이션의 부재, 라는 답변을 통해 니즈를 알
+If you using this service, what is the best device to make
+12-1 수 있었고, 이를 종합해보면 소비자의 한정적인 체험을 해소
+you comfortable for customizing?
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 908"
+"MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털 콘텐츠와 인터페이스 디자인 제안
+하기 위한 자유도 높은 커스터마이즈 서비스와 접근성 높은 4-3 퍼소나(Persona) 설정
+어플리케이션 콘텐츠 발굴이 필요하다는 것을 알 수 있었다.
+표 5. 새활용 커스터마이즈 서비스 콘텐츠 활용 및 니즈를
+파악하기 위한 설문조사의 설문 분석 결과 요약
+Table 5. A summary of survey results from a survey to
+identify content utilization and needs for new
+customization services
+Survey results
+Male, 34 (52.3%), Female, 31 (47.7%), Total, 65
+1
+(100%)
+Under 19: 0 (0%), 20~23: 3 (4.6%), 24~30: 45(68.2%),
+2
+30~36: 16(24.6%), 37~40: 3(4.6%), over 40: 0(0%)
+plastic 48 people(73.8%), vinyl 15 people(23.1%), paper
+3
+1 people(1.5%), general waste 1 people(1.5%)
+Yes, 32 people(49.2%), No, 14 people(21.5%), I don't
+4
+know. 19 people(29.2%)
+I've always been interested. 22 people (33.8%) increased
+since COVID-19 15 people (23.1%), 9 people (13.8%)
+4-1
+have become more interested this year (as of 2022), are
+not interested. 19 (29.2%)
+36 people (55.4%) who are well aware, I've heard of it.
+5
+15 (23.1%), 14 people (21.5%) don't know.
+6 No, 45 (69.2%), yes 20 (30.8%)
+7 No, 38 people (58.5%), Yes, 27 people(41.5%).
+14 people (21.5%) purchased through SNS, 11 people
+(16.9%) purchased through social commerce, 4 people
+7-1 (6.2%) purchased through recommendation of
+*Persona’s target audiences are Korean.
+acquaintances, and 36 people (55.4%) were not
+applicable. 그림 3. 퍼소나 이재원(위), 조윤서(아래)
+Fig. 3. Persona Lee Jaewon (top), Cho Yoonseo (bottom)
+35 people (54.7%) answered, 13 people (20.3%) in
+bags, 8 people (12.5%) in accessories, 4 people in
+7-2
+clothing (6.3%), 7 people in unused (10.9%), 3 others 앞선 설문조사의 결과를 토대로 새활용 커스터마이즈 서비
+(4.8%), and 29 people (45.3%) not applicable.
+스를 사용하는 과정에서 가상의 퍼소나를 두 가지 유형으로
+17 people (26.2%) didn't know how to do it, so 17
+설정하여 그림 3에 나누어 정리하였다. 퍼소나는 서비스를 사
+people (26.2%) didn't have a chance, 5 people (37.7%)
+8
+were lazy and complicated, and 20 people (30.8%) were 용하는 다양한 사용자 유형을 대표하는 가상의 인물로 니즈
+not applicable.
+와 페인포인트 등을 찾기 위해 사용자 중심 연구에 많이 사용
+41 people (63.1%) Yes, i will do, 20 people (30.8%) I
+9 되는 방법론 중의 하나로, 이를 바탕으로 니즈와 페인포인트
+don’t know, 3 people (4.6%) No, I will not, 1 Etc (1.5%)
+를 확인하고 이후 서비스 설계에 반영하여 콘텐츠의 방향성
+Yes, 42 (64.6%), No, 16 (24.6%), and 7 (10.8%) I've
+10
+heard of it. 을 설정하기 위해 제작되었다.
+11 Yes, 34 (52.3%), no, 31 (47.7%). 첫 번째 퍼소나 이재원(남, 32세)는 플라스틱 소비가 잦은
+I've never experienced it. 29 people (44.6%), 21 people
+소비자이다. 이재원은 ‘플라스틱 쓰레기 발생현황’과 ‘환경과
+(32.3%) on SNS, 9 people (13.8%) on self-search
+11-1 (search engines such as Google and Naver), 3 people on 관련한 MZ 세대의 인지도’ 등 설문을 종합하여 설정하였다.
+social commerce (4.6%), and 3 people on acquaintance
+이재원은 평소에 플라스틱 쓰레기가 많이 발생하고, 이를 처
+recommendation (4.6%)
+리할 때마다 불편함을 느끼고 있었다. 이에 편리하고 의미 있
+Not Applicable 29 (44.6%), 21 (32.3%) on mobile web,
+11-2 19 (29.2%) on PC web, 12 (18.5%) on smart device 는 플라스틱 쓰레기 배출을 원하고 있다. 따라서 플라스틱 분
+applications, and 1 (1.5%) on others
+리수거 과정을 간소화할 수 있는 서비스를 제공하고, 새활용
+Restriction at customizing, i can’t do quite freely, Large
+11-3
+amount of time consuming at delivery, etc 을 통한 의미있는 서비스를 제공한다.
+53 people(81.5%) Yes, I will do, 12 people (18.5%) No, I
+12 두 번째 퍼소나 조윤서(여, 20세)는 자신의 개성을 중시하
+will not
+는 소비자이다. 조윤서는 ‘커스터마이즈 서비스 인지도’와 ‘한
+30 By mobile applications (46.2%), 20 mobile website
+12-1 (30.8%), 7 PC website (10.8%), and 8 I don’t 정적인 커스터마이즈’ 등의 설문을 종합하여 설정하였다. 조
+know(12.3%)
+윤서는 평소 남들이 흔히 입는 브랜드 말고 오롯이 자신만이
+가지는 희소성 있는 제품을 가지고 싶어한다. 이에 간편하고
+따라서, 본 연구에서는 이러한 설문조사의 결과를 반영하
+다양한 커스터마이즈 서비스를 원하고 있다. 따라서 자유도
+여 MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지
+높은 커스터마이즈 서비스와 이를 간편하게 이용할 수 있는
+털 콘텐츠와 인터페이스 디자인을 개발하고자 한다.
+909 http://www.dcs.or.kr"
+"디지털콘텐츠학회논문지(J. DCS) Vol. 24, No. 5, pp. 903-914, May. 2023
+서비스를 제공한다. 5-2 콘텐츠 구성 방향
+REGENA의 서비스를 구성할 때 가장 크게 고려한 점은
+Ⅴ. 콘텐츠 구성 및 인터페이스 구조 설계 MZ 세대의 소비 특성이다. 첫째로, 이들은 팬데믹의 영향으
+로 플라스틱 사용량이 급증하고 이 점이 고착되어 여전히 꾸
+크게 두 가지로 나누어지는 페르소나 유형을 기반으로 친 준한 증가세를 보이고 있는 동시에 환경, 그리고 환경보호에
+환경 폴리에스터 원사로 제작한 각종 업사이클링 제품을 커 대한 관심도 역시 꾸준하게 증가하고 있다. 그런 이들에게 집
+스텀 할 수 있는 서비스를 구상하였고, 이를 시각화하여 나타 앞에 내놓은 폐플라스틱을 수거해가는 서비스를 제공함으로
+낸 구조와 인터페이스를 설계하였다. 유저가 집 앞에 내놓은 써, 좀 더 편리하게 쓰레기를 처리하여 얻은 포인트를 사용할
+폐플라스틱을 수거해가는 수거서비스를 제공하는 과정이 선 수 있는 서비스를 제공하고자 하였다. 이 과정에서 제공된 포
+제적으로 시행되어야 하기 때문에, 서비스는 디바이스 내의 인트는 후에 모바일 어플리케이션에서 이루어지는 커스터마
+어플리케이션뿐만 아니라 오프라인에서도 다양한 형태로 서 이즈 서비스 단계에서 결제를 할 때 사용할 수 있다. 둘째로
+비스가 표현되고, 제공된다. 즉 오프라인으로 제공되는 서비 이들은 자신만의 유니크한 아이템을 가지고 싶어하는 특성을
+스를 바탕으로 이를 쉽게 활용하고 부가적인 서비스를 제공 보인다.
+받을 수 있도록 모바일 어플리케이션을 디자인했다. 최근 가치소비, 득템력 같은 키워드가 생겨나고 있는 MZ
+세대는 자신의 가치관이나 취향에 걸맞는 상품을 소비하는데
+5-1 디자인 컨셉 가격이나 기간 등 큰 제약을 두지 않고 소비를 한다는 것을
+알 수 있다. 그래서 이들의 독창적인 아이템을 소유하고 싶어
+시행하게 될 서비스의 이름은 ‘REGENA’이다. ‘재생시키다’ 하는 욕구를 충족시키고자 기본적으로 REGENA에서 제공하
+라는 뜻의 ‘Regenerate’와 ‘개성’의 의미를 가진 ‘Personality’ 는 디자인 외에 사용자가 원하는 디자인이나 패턴을 추가할
+를 재조합하여 ‘개성을 존중하여 재탄생시킨다’라는 의미를 가 수 있도록 커스터마이즈 서비스를 추가하였다. 또한, 이러한
+진 REGENA로 표현하였다. 그림 4의 마스터 로고를 보면 폐플 서비스는 직접 커스터마이즈를 진행함으로써, 사용자가 직접
+라스틱을 탑 뷰(Top view)에서 바라본 모습을 모티브로 기하 참여를 하며 서비스 이용에 재미를 느낄 수 있게끔 유도했다.
+도형인 원과 사각형을 활용하여 제작하였고, 다르게 생긴 두 가 그리고 이러한 서비스는 오프라인 매장에서도 이용이 가능하
+지가 만나 새로운 가치를 창출해낸다는 의미를 내포하는 ‘New 고, 모바일에서도 이용이 가능할 수 있는 유기적인 구조로 서
+value from the useless’로 설정했다. 비스를 구성했다.
+서비스가 지향하고자 하는 키워드를 표현하기 위해 찌그러 MZ 세대는 유니크함, 특히 ‘남들이 쉽게 가질 수 없는, 즉
+진 폐플라스틱들의 형태(Shape)를 활용 및 재해석하여 브랜 ‘한정판’, 혹은 ’프라이빗(private)함’을 선호한다. 또한, 최근
+드의 전체적인 그래픽을 디자인 하였다. 또한 면과 선이 결합 팝업 스토어 형식의 마케팅이 증가하고 있고, 이를 활용한 성
+된 형태는 폐플라스틱을 하나의 면으로 보고, 이 면이 친환경 공사례들을 많이 볼 수 있다. 리제나는 이러한 측면을 고려하
+폴리에스터 원사로 재탄생 된다는 의미를 내포하였다. 여 오프라인에서 제공하는 수거서비스를 이용하는 유저만이
+컬러는 브랜드의 키워드 중 개성있는(Unique)과 역동적인 REGENA 모바일 어플리케이션을 사용할 수 있고, 자연스럽
+(Dynamic)을 표현하기 위해 보다 활동적인 느낌을 줄 수 있 게 커스터마이즈를 이용할 수 있도록 설계했다.
+는 비비드 톤(Vivid tone)의 오렌지(Orange), 그린(Green),
+네이비(Navy) 세 색상을 선정하였다. 5-3 브랜드 서비스
+오프라인의 경우 사용자가 수거 서비스를 신청하면 그림 5
+에서 보이는 것처럼 사이즈 별로 수거박스를 지급받게 된다.
+M사이즈의 수거박스의 경우 20L 정도의 용량을 가지고 있고
+L사이즈의 수거박스는 70L 정도의 용량을 가지고 있다. 각
+수거박스는 1인가구 M사이즈, 4인가구 L사이즈로 구분지어
+플라스틱을 수거한다. 포인트는 L(리터)당 10포인트가 지급
+되고, 이 포인트는 후에 REGENA의 제품을 구매할 때 사용
+할 수 있다. 기본적으로, 스마트 워치의 스트랩이나 우산을 메
+인 아이템으로 판매하고, 그림 6의 토트백 같은 제품들도 제
+공한다. 이는 모두 친환경 폴리에스터 원사로 제작되는 제품
+그림 4. REGENA 마스터 로고 들이다. 기본적으로 리제나에서 제공되는 디자인도 있고, 그
+Fig. 4. REGENA master logo 외에 사용자가 직접 패턴이나 패치를 커스텀하여 제작할 수
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 910"
+"MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털 콘텐츠와 인터페이스 디자인 제안
+도 있다. 새활용을 기반으로 제품을 제작하고 판매하는 친환
+경 브랜드인 만큼 비닐봉투를 사용하지 않고 친환경 폴리에
+스터로 제작된 천에 포장을 해서 판매하는 것을 원칙으로 한
+다.
+*Screen's target audiences are Korean.
+그림 7. 픽업서비스 화면
+그림 5. REGENA 수거서비스 수거 박스
+Fig. 7. Pickup service screen
+Fig. 5. REGENA pickup service pickup box
+그림 6. REGENA 토트백
+Fig. 6. REGENA tote bag
+5-4 어플리케이션 서비스
+어플리케이션 서비스 같은 경우 작은 화면에서의 가시성을
+고려하여 오프라인 서비스에서 활용되었던 세 가지 메인 컬
+러 중 그린과 오렌지 컬러 두 색상을 주조색으로 활용하여 제
+작하였다. 오프라인에서 제공되는 수거 서비스를 신청하고,
+커스텀을 진행할 수 있다.
+그림 7과 같이 REGENA의 모바일 어플리케이션 서비스는
+수거 서비스를 의미하는 ‘픽업’ 단계를 거쳐야 사용이 가능하
+도록 설계했다. 픽업서비스는 그림 7 ‘정기적 픽업’을 선택한
+유저들이 집 앞에 내놓은 수거박스를 2주에 한번 수거해간다.
+*Screen's target audiences are Korean.
+그림 8. 커스터마이즈 진행과정 페이지
+Fig. 8. Customization progress page
+911 http://www.dcs.or.kr"
+"디지털콘텐츠학회논문지(J. DCS) Vol. 24, No. 5, pp. 903-914, May. 2023
+그림 8은 커스터마이즈 서비스이다. 그림 8과 같이 사용 오프라인의 경우 부스를 설치하여 태블릿 PC와 브랜드 서
+자들은 스트랩을 선택하고 일련의 과정을 거쳐 스트랩이나 비스를 소개하는 인쇄물 등을 배치하고 서비스에 대해 간단
+기타 상품들을 커스터마이즈 할 수 있도록 설계했다. 이 과정 히 소개한 후 태블릿PC와 사용성 평가표를 제공하여 사용자
+에서 사용자들은 각자의 스트랩 사이즈를 선택하고, 색상, 패 가 직접 사용해보면서 즉각적으로 체크 리스트를 작성하며
+턴, 그 외 추가하고 싶은 이미지 등을 선택하는 등 REGENA 피드백을 받는 방법으로 진행하였다.
+에서 기본적으로 제공하는 디자인을 자신이 선택한 상품의 온라인의 경우 구글미트(Google Meet)를 활용하여 연구
+디자인에 자유롭게 관여할 수 있도록 참여형 콘텐츠로 서비 자 2명과 사용자 1명이 입장하고 연구자가 서비스에 대해 간
+스를 구성했다. 단한 설명을 한 뒤 프로토타입 모델(Prototype Model)을 제
+공하면 사용자가 온라인으로 제공된 프로토타입을 사용하며
+즉각적인 피드백과 체크리스트에 점수를 평가하는 방식을 동
+Ⅵ. 서비스 사용성 평가 시에 진행하였다.
+6-1 평가 설계 및 수행 6-2 사용성 평가 결과 및 분석
+REGENA의 모바일 어플리케이션의 실용성 검증을 위해 온/오프라인을 복합적으로 진행한 사용성 평가의 결괏값을
+그림 9처럼 사용성 평가를 진행하였다. 사용성 평가는 사용자 그림 10과 같은 그래프로 정리하였다. 결과에 대한 전반적인
+가 어떤 도구나 서비스, 시스템을 사용하는 과정에서 특정 목 내용을 간단히 요약하자면, 사용자들은 어플리케이션 인터페
+적을 달성하기 위해 사용할 때에 어느 정도 사용하기 쉬운가 이스 내에서 큰 불편함을 느끼진 않았다는 것을 알 수 있었다.
+를 알아보기 위한 단계이다. 그림 10에 보이는 것처럼 사용성 이에 몇 가지 문제점들을 발견할 수 있었는데, 별로 중요시
+평가표의 질문지는 제이콥 닐슨(Jacob Nielsen)의 휴리스틱 여기지 않던 요소들을 각각의 사용자들이 공통적으로 느꼈다
+평가 체크리스트(Heuristic Evaluation Checklist)의 10가 는 점에서 부족함을 알 수 있었다. 이들은 공통적으로 커스터
+지 항목을 사용하여 온라인과 오프라인 두 방법으로 진행하 마이즈 과정에서 돌아가기 버튼이 설계한 내용보다는 불편하
+였다. 다는 점과 검색을 해서 들어갈 수는 없고 오롯이 홈 버튼을
+통해서만 메뉴이동이 가능하다는 점을 불편한 점으로 꼽았다.
+그 외에 커스터마이즈를 진행하는 방법이나 수거 서비스를
+진행하는 과정에 대해서는 크게 문제를 느끼지 못했다. 따라
+서 포인트 컬러와 라인으로 구성된 아이콘들이 직관적으로
+인식되는 것을 알 수 있었다. 서비스에 대한 호감도나 만족도
+면에서는 대부분 긍정적인 반응을 보였지만, 어플리케이션 내
+에서 부가적으로 제공되는 플로깅 서비스는 크게 흥미를 끌
+수 없었다. 하지만 전체적으로 서비스에 대한 만족도가 높아
+서 MZ 세대들이 커스터마이즈 서비스와 새활용을 결합한 형
+태의 서비스에 만족도가 높았다.
+*Usability Evaluation target audiences are Korean.
+그림 9. 사용성평가 (온라인)
+Fig. 9. Usability assessment (online)
+그림 10. 휴리스틱 사용성평가 결과 요약 그래프
+Fig. 10. Heuristic evaluation result summary graph
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 912"
+"MZ 세대 소비 트렌드를 반영한 새활용 커스터마이즈 디지털 콘텐츠와 인터페이스 디자인 제안
+Ⅷ. 결 론 No. 1, pp. 113-120, February 2021.
+https://doi.org/10.35280/KOTPM.2021.24.1.13
+본 연구는 코로나19 팬데믹 이후 증가하는 플라스틱 쓰레 [2] Naver Encyclopedia. Upcycling [Internet]. Available:
+기를 새활용하면서 개성을 중요시하는 MZ 세대의 니즈를 동 https://terms.naver.com/entry.naver?docId=931148&cid=43
+시에 충족시킬 방안으로 새활용 커스터마이즈 콘텐츠와 인터 667&categoryId=43667
+페이스 디자인을 제안하였다. [3] Pulmuone Newsroom. viewESG [Internet]. Avaliable:
+먼저 배경 연구를 통해 팬데믹 이후 가구별 플라스틱 쓰레 https://news.pulmuone.co.kr/pulmuone/newsroom/viewEsg.
+기가 증가하였다는 사실을 알 수 있었고, MZ 세대가 플라스 do?id=2642
+틱 쓰레기를 더 나은 방식으로 배출하기를 원한다는 사실을 [4] Y. Byun and S. H. Woo, “Research Trend on ESG
+확인하였다. 이와 동시에 MZ 세대의 개성을 살릴 수 있는 커 Management of Corporation,” Clean Technology, Vol. 28
+스터마이즈 서비스를 조사하였다. 또한 현재 시행되고 있는 No. 2, pp. 193-200, June 2022.
+새활용이나 커스터마이즈 관련 서비스들의 사례분석을 통하 http://doi.org/10.7464/ksct.2022.28.2.193
+여 어플리케이션의 부재와 커스터마이즈를 한정적으로 제공 [5] HYOSUNG TNC. Global Practice for Sustainability
+한다는 한계점을 찾았다. 이를 바탕으로 설문을 진행하여 새 [Internet]. Avaliable:
+활용 커스터마이즈 서비스에 대한 니즈와 페인포인트를 확인 http://www.hyosung.co.kr/kr/csr/indicator/csr_
+하였고, 설문조사를 바탕으로 퍼소나를 정의하였다. 이를 기 key_indicator.do
+반으로 서비스 방향을 설정한 후, MZ 세대의 특징을 고려한 [6] S. H. Kim, W. G. Ham, S. Y. Park, S. H. Yun, G. S. Lee,
+and H. J. Gu, “Developing Environmental Friendly
+새활용 커스터마이즈 서비스 콘텐츠 설계 및 인터페이스 디
+Recycled Fiber Material,” Fiber Technology and Industry,
+자인을 제안하였다. 이후 MZ 세대를 대상으로 한 온, 오프라
+Vol. 14, No. 2, pp. 61-70, 2010.
+인 사용성 평가를 통해 MZ 세대의 만족도가 높았음을 확인하
+[7] Lotte Members Research Platform Lime. Trends of
+여 서비스의 사용성을 검증했다.
+Generation “Meaning-Out” [Internet]. Avaliable:
+본 연구 조사 결과, 커스터마이즈 콘텐츠에 대한 수요가 확
+https://www.ejanews.co.kr/news/articleView.html?idxno=3
+인되고 비슷한 콘텐츠들에 대한 개발이 진행되고 있다. 하지
+06105
+만, 새활용과 커스터마이즈 각각의 키워드에 대한 선행연구는
+[8] Y. R. Kang and M. Y. Kim, An Exploratory Study on the
+존재하나, 이 두 개의 키워드를 함께 서비스하는 콘텐츠에 대
+Lifestyle Characteristics of the MZ Generation : A Focus on
+한 선행연구는 미흡하다.
+the 2010-2020 Studies, Fashion & Textile Research
+새활용 커스터마이즈 서비스 콘텐츠인 ‘REGENA’는 폐플
+Journal, Vol. 24, No. 1, pp. 81-94, January 2022.
+라스틱 배출에 대한 고질적인 문제점을 효과적으로 해소할
+https://doi.org/10.5805/SFTI.2022.24.1.81
+수 있음과 동시에 MZ 세대의 니즈에 맞춘 ‘개성’을 중시하고
+[9] Trend Monitor EMBRAIN. Survey on Environmental Issues
+현대인들의 ‘분리수거의 번거로움’을 해소했다는 점에 있어
+and Perception of Upcycling Products [Internet]. Avaliable:
+향후 긍정적인 효과를 이끌어 낼 수 있을 것으로 예상한다.
+https://www.trendmonitor.co.kr/tmweb/trend/allTrend/detail.
+본 연구에서 제작한 서비스를 GUI 디자인 및 프로토타입
+do?bIdx=2284&code=0404&trendType=CKOREA
+단계까지만 제작한 부분이 어플리케이션의 프로세스 검증을
+[10] Y. J. Kang and S. H. Kim, “A Study on Consumer
+마치지 못한 점에 한계점이 있다. 설문 단계부터 진행해온 표
+Perception of ESG Management of Corporation: Focusing
+본조사에 있어 모집단을 더 많이 확보하지 못한 점에 있어 다
+on the MZ Generation,” The Korean Journal of
+소 아쉬움이 있다. 따라서, 후속 연구에서는 서비스를 개발 단
+Advertising, Vol. 33. No. 3, pp. 7-39, 2022.
+계까지 구현할 예정이며, 더 세밀한 표본조사를 바탕으로 사
+https://doi.org/10.14377/KJA.2022.4.15.7
+용성 부분을 향상할 예정이다. 더 나아가 추후 전문가와의 협
+[11] M. Kang and S. Lee, “An Analysis of Disposable Plastic
+업을 통해 경제적인 면에 있어 실현 가능성을 검증할 예정이
+Emissions Due to the Increase in Single-person
+다. 본 연구의 결과가 향후 새활용을 활용한 커스터마이즈 서
+Households,” Digital Seoul Issue Report, Seoul,
+비스의 상용화에 적극적으로 활용되길 기대하는 바이다.
+9791197181467, pp. 2-30, May 2020.
+[12] K. Son and W. Hwang, KB Trend Report: Consumer
+Viewed ESG and Eco-friendly Consumption Behavior, KB
+참고문헌
+Management Research Institute, Seoul, pp. 6-34, 2021.
+[13] Pulse by Maeil Business News Korea. Definition of
+[1] S. H. Hong and M. Kim, “A Study on Communication
+Customizing [Internet]. Avaliable:
+Methods According to the Characteristics of MZ
+https://www.mk.co.kr/dic/desc.php?keyword=%C4%BF%
+Generation,” The Treatise on The Plastic Media, Vol. 24,
+913 http://www.dcs.or.kr"
+"디지털콘텐츠학회논문지(J. DCS) Vol. 24, No. 5, pp. 903-914, May. 2023
+BD%BA%C5%CD%B8%B6%C0%CC%C2%A1&page=0
+&so=all&from=&to=#none
+[14] W. Choi and S. Kim, “A Study on Value Based
+Consumption Trends Appeared in Customizing Design,”
+CDAK Society of Communication Design, Vol. 62, pp.
+198-213, 2018. http://doi.org/10.25111/jcd.2018.62.16
+[15] B. J. Pine II and J. H. Gilmore, “The Experience Economy:
+Work Is Theatre & Every Business a Stage,” Harvard
+Business School Press, 1999.
+박주원(Ju-Won park)
+2018년：건국대학교 글로컬캠퍼스 디자인학부 미디어콘텐츠 학과 재학
+2018년～현 재: 건국대학교 글로컬캠퍼스 디자인학부 미디어콘텐츠 학과 재학
+※관심분야：UI/UX, 브랜딩, 디지털 콘텐츠 등
+이재준(Jea-Jun Lee)
+2018년：건국대학교 글로컬캠퍼스 디자인학부 미디어콘텐츠 학과 재학
+2018년～현 재: 건국대학교 글로컬캠퍼스 디자인학부 미디어콘텐츠 학과 재학
+※관심분야：UI/UX, 브랜딩, 디지털 콘텐츠 등
+조희경(Hee-Kyung Cho)
+2012년：스쿨오브비쥬얼아트 그래픽 디자인/모션그래픽스 (미술학학사)
+2015년：보스턴 대학교 그래픽 디자인 (미술학석사)
+2019년：한양대학교 디자인대학 인터렉티브 미디어 디자인 전공(디자인학박사)
+2022년～현 재: 건국대학교 디자인대학 미디어학부 미디어콘텐츠학과 조교수
+※관심분야：디지털 콘텐츠, UX/UI, 인터렉션 디자인, HCI 등
+http://dx.doi.org/10.9728/dcs.2023.24.5.903 914"
